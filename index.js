@@ -13,4 +13,3 @@ function logShout(string) {
 function log Whisper(string) {
   console.log('hello')
 }
-
